@@ -1,4 +1,4 @@
-### Hi there, Nice meeting you 👋
+![logo](https://github.com/evansnyamekye/evansnyamekye/blob/main/Computing-feat.jpg)
 <h1 align="center">Hi 👋, I'm Evans Kofi Nyamekye</h1>
 <h3 align="center">A Full-Stack developer from Ghana</h3>
 
