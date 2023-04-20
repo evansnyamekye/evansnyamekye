@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Evans Kofi Nyamekye</h1>
 <h3 align="center">A Full-Stack developer from Ghana</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evansnyamekye&label=Profile%20views&color=0e75b6&style=flat" alt="evansnyamekye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evansnyamekye" alt="evansnyamekye" /></a> </p>
