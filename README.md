@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Docker, kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://evans-portfolio.live/](https://evans-portfolio.live/)
+- 👨‍💻 All of my projects are available at [https://evans-portfolio-ecru.vercel.app/)
 
 - 📫 How to reach me **nyamekye2131@gmail.com**
 
