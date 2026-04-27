@@ -1,10 +1,23 @@
-![banner](https://github.com/evansnyamekye/evansnyamekye/blob/main/Computing-feat.jpg)
+<p align="center">
+  <img src="https://github.com/evansnyamekye/evansnyamekye/blob/main/Computing-feat.jpg" alt="Evans Kofi Nyamekye banner" width="100%" />
+</p>
 
-# Evans Kofi Nyamekye
+<h1 align="center">Evans Kofi Nyamekye</h1>
 
-Full-Stack Developer focused on building reliable web applications with JavaScript, React, Ruby on Rails, and Java.
+<p align="center">
+  Full-Stack Developer focused on building reliable web applications with JavaScript, React, Ruby on Rails, and Java.
+</p>
 
-[Portfolio](https://evans-portfolio-ecru.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/evans-kofi-nyamekye/) | [Email](mailto:nyamekye2131@gmail.com) | [Repositories](https://github.com/evansnyamekye?tab=repositories)
+<p align="center">
+  Building practical software across frontend, backend, and deployment workflows.
+</p>
+
+<p align="center">
+  <a href="https://evans-portfolio-ecru.vercel.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/evans-kofi-nyamekye/">LinkedIn</a> |
+  <a href="mailto:nyamekye2131@gmail.com">Email</a> |
+  <a href="https://github.com/evansnyamekye?tab=repositories">Repositories</a>
+</p>
 
 ---
 
