@@ -18,6 +18,18 @@ I’m currently sharpening my skills in:
 - Docker
 - Kubernetes
 
+### Connect with me
+
+[![X](https://img.shields.io/badge/X-nyamekye2131-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nyamekye2131)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evans%20kofi%20nyamekye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-kofi-nyamekye/)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-evans%20nyamekye-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/evans%20nyamekye)
+[![LeetCode](https://img.shields.io/badge/LeetCode-drnyamekye-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/drnyamekye)
+[![Discord](https://img.shields.io/badge/Discord-%237355-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#7355)
+
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,java,spring,docker,kubernetes,react,redux,html,css,bootstrap,postgres,git,github)](https://skillicons.dev)
+
 ### Current Focus
 
 - Building maintainable full-stack applications
@@ -30,17 +42,6 @@ I’m currently sharpening my skills in:
 - **Bluefolder**: Ruby on Rails application with active maintenance, dependency updates, and ongoing repository activity.
 - **Blog Application**: Rails-based blog platform with authentication, data modeling, testing, and collaborative development.
 - **Portfolio Website**: Personal portfolio built to present projects, skills, and experience.
-
-### Tech Stack
-
-**Frontend**
-JavaScript, React, Redux, HTML, CSS, Bootstrap
-
-**Backend**
-Ruby on Rails, Java, Spring Boot, REST APIs
-
-**Tools**
-Git, GitHub, Docker, Kubernetes, PostgreSQL
 
 ### GitHub Stats
 
