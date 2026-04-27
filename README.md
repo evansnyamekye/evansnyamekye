@@ -1,3 +1,5 @@
+![banner](https://github.com/evansnyamekye/evansnyamekye/blob/main/Computing-feat.jpg)
+
 # Evans Kofi Nyamekye
 
 Full-Stack Developer focused on building reliable web applications with JavaScript, React, Ruby on Rails, and Java.
