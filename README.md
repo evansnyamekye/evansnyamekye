@@ -1,4 +1,3 @@
-![logo](https://github.com/evansnyamekye/evansnyamekye/blob/main/Computing-feat.jpg)
 # Evans Kofi Nyamekye
 
 Full-Stack Developer focused on building reliable web applications with JavaScript, React, Ruby on Rails, and Java.
@@ -12,13 +11,12 @@ Full-Stack Developer focused on building reliable web applications with JavaScri
 I’m a full-stack developer from Ghana building practical, user-focused software across frontend, backend, and deployment workflows.
 
 My recent work includes JavaScript interfaces, Ruby on Rails applications, static and dynamic web platforms, and hands-on engineering work around delivery and maintenance.
-- 🌱 I’m currently learning **SpringBoot, Docker, kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://evans-portfolio-ecru.vercel.app/)
+I’m currently sharpening my skills in:
 
-- 📫 How to reach me **nyamekye2131@gmail.com**
-
-- ⚡ Fun fact **Outgoing and nice to be with**
+- Spring Boot
+- Docker
+- Kubernetes
 
 ### Current Focus
 
